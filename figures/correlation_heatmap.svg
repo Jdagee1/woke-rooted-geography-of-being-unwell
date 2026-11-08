@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="650" viewBox="0 0 940 650" role="img" aria-label="Correlation matrix of frequent mental distress, social isolation and lack of social support, from county-level CDC PLACES estimates">
+<rect width="940" height="650" fill="#101a25"/>
+<text x="58" y="60" fill="#dfb967" font-size="18" font-family="Arial, sans-serif" letter-spacing="2">F+M LABS / WOKE &amp; ROOTED</text>
+<text x="58" y="107" fill="#ffffff" font-size="32" font-weight="700" font-family="Arial, sans-serif">The Geography of Being Unwell</text>
+<text x="58" y="142" fill="#abc0c9" font-size="17" font-family="Arial, sans-serif">County-level Pearson correlations · n = 2,417 complete records</text>
+<text x="460.0" y="178" font-size="13" fill="#dae9ef" text-anchor="middle" font-family="Arial, sans-serif">Mental distress</text>
+<text x="608.0" y="178" font-size="13" fill="#dae9ef" text-anchor="middle" font-family="Arial, sans-serif">Social isolation</text>
+<text x="756.0" y="178" font-size="13" fill="#dae9ef" text-anchor="middle" font-family="Arial, sans-serif">Lack of support</text>
+<text x="360" y="258.0" font-size="16" fill="#d6e4ea" text-anchor="end" dominant-baseline="middle" font-family="Arial, sans-serif">Mental distress</text>
+<rect x="390" y="188" width="140" height="140" rx="10" fill="#0c5d6f"/>
+<text x="460.0" y="258.0" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="Arial, sans-serif" font-weight="700" font-size="25">+1.0000</text>
+<rect x="538" y="188" width="140" height="140" rx="10" fill="#78a5ae"/>
+<text x="608.0" y="258.0" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="Arial, sans-serif" font-weight="700" font-size="25">+0.5069</text>
+<rect x="686" y="188" width="140" height="140" rx="10" fill="#7faab2"/>
+<text x="756.0" y="258.0" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="Arial, sans-serif" font-weight="700" font-size="25">+0.4738</text>
+<text x="360" y="406.0" font-size="16" fill="#d6e4ea" text-anchor="end" dominant-baseline="middle" font-family="Arial, sans-serif">Social isolation</text>
+<rect x="390" y="336" width="140" height="140" rx="10" fill="#78a5ae"/>
+<text x="460.0" y="406.0" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="Arial, sans-serif" font-weight="700" font-size="25">+0.5069</text>
+<rect x="538" y="336" width="140" height="140" rx="10" fill="#0c5d6f"/>
+<text x="608.0" y="406.0" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="Arial, sans-serif" font-weight="700" font-size="25">+1.0000</text>
+<rect x="686" y="336" width="140" height="140" rx="10" fill="#4a8693"/>
+<text x="756.0" y="406.0" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="Arial, sans-serif" font-weight="700" font-size="25">+0.7180</text>
+<text x="360" y="554.0" font-size="16" fill="#d6e4ea" text-anchor="end" dominant-baseline="middle" font-family="Arial, sans-serif">Lack of support</text>
+<rect x="390" y="484" width="140" height="140" rx="10" fill="#7faab2"/>
+<text x="460.0" y="554.0" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="Arial, sans-serif" font-weight="700" font-size="25">+0.4738</text>
+<rect x="538" y="484" width="140" height="140" rx="10" fill="#4a8693"/>
+<text x="608.0" y="554.0" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="Arial, sans-serif" font-weight="700" font-size="25">+0.7180</text>
+<rect x="686" y="484" width="140" height="140" rx="10" fill="#0c5d6f"/>
+<text x="756.0" y="554.0" text-anchor="middle" dominant-baseline="middle" fill="white" font-family="Arial, sans-serif" font-weight="700" font-size="25">+1.0000</text>
+<text x="58" y="618" fill="#a5bdc8" font-family="Arial, sans-serif" font-size="14">Modeled county estimates · descriptive only · correlation is not causation</text></svg>
